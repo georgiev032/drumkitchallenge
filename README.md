@@ -1,1 +1,1 @@
-# drumkitchallenge
+# drumkit-challenge
